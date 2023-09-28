@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Baliram,a curious Data Scientist.
-- 👀 I’m currently working on Machine Learning projects.
-- 🌱 I’m currently learning various machine learning models and deep learning techniques.
-- 💞️ I would love to collaborate on Machine Learning projects.
+- 👋 Hi, I’m Baliram,a curious DevOps Engineer.
+- 👀 I’m currently working on DevOps project.
+- 🌱 I’m currently learning various tools and techniques of DevOps.
+- 💞️ I would love to collaborate on DevOps projects.
 - 📫 How to reach me baliramkumarmgs@gmail.com, kumar.baliram8279@gmail.com
 -  LinkedIn:- https://www.linkedin.com/in/baliram-kumar-616a5a171
 
